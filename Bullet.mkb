@@ -1,0 +1,18 @@
+
+options
+{
+	lib
+	
+##	strict
+
+	arm-cpu=6z
+	arm-fpu=vfpv3
+
+	optimise-speed
+}
+
+subproject Bullet
+
+files
+{
+}
